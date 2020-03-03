@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Loteria</string>
+    <string name="titulo">GESTOR DE LOTERIAS</string>
+    <string name="boton_1">REGISTRO</string>
+    <string name="botonP_2">LOTERIAS</string>
+    <string name="botonP_3">AJUSTES</string>
+    <string name="botonP_4">SORTEO</string>
+    <string name="botonP_5">ACERCA DE</string>
+    <string name="botonP_6">AYUDA</string>
+
+
+    <string name="tituloR">REGISTRO</string>
+    <string name="edit_textR_N">NOMBRE</string>
+    <string name="edit_textR_P">CONTRASEÑA</string>
+    <string name="edit_textR_E">EMAIL</string>
+    <string name="edit_numR_EDAD">EDAD</string>
+    <string name="boton_R">REGISTRAR</string>
+
+    <string name="tituloL">LOTERIAS</string>
+    <string name="primi" translatable="false">PRIMITIVA</string>
+    <string name="bono" translatable="false">BONOLOTO</string>
+    <string name="euro" translatable="false">EUROMILLON</string>
+    <string name="quini" translatable="false">QUINIELA</string>
+
+    <string name="tituloA">AJUSTES</string>
+    <string name="tituloA_C">Combinación manual</string>
+    <string name="tituloA_A">Cantidad a Apostar: </string>
+    <string name="tituloA_N">Elige la combinación númerica: </string>
+
+    <string-array name="opciones">
+        <item>Seleccione</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="BotonS_S">SORTEO</string>
+    <string name="SorteoN">NOMBRE</string>
+    <string name="SorteoC">CANTIDAD</string>
+    <string name="SorteoA">COMBINACIÓN</string>
+    <string name="SorteoT">TIPO SORTEO</string>
+
+    <string name="autor">AUTOR:</string>
+    <string name="fecha">FECHA CREACIÓN:</string>
+    <string name="nombreapli">NOMBRE APK:</string>
+    <string name="yo" translatable="false">Francisco José</string>
+    <string name="fechaF" translatable="false">3/03/2020</string>
+    <string name="apk" translatable="false">Loteria.apk</string>
+
+
+    <string name="Volver">VOLVER</string>
+    <string name="Aceptar">ACEPTAR</string>
+    <string name="title_activity_ajuste">Ajuste</string>
+    <string name="tab_text_1">Apuesta</string>
+    <string name="tab_text_2">Numeros</string>
+
+    <string name="title_activity_ajustes">Ajustes</string>
+    <string name="ayuda">GUÍA DE USO</string>
+    <string name="guia" translatable="false">
+        Esta es una aplicacion para realizar un sorteo para ello debes rellenar los datos antes de poder realizar
+        el sorteo. Lo primero (aunque no tiene porque seguir un orden especifico aunque si recomendado) es registrarse
+        para ello pulsamos registrar en el menu principal y rellenamos los campos,recuerda que si no eres mayor de edad no podras
+        participar. Una vez registrado elegimos que tipo de sorteo vamos a realizar para ello pulsamos el boton loterias
+        en el menu principal y elegimos una de las 4. Ahora vamos a elegir el dinero que se va a apostar y los numeros
+        con lo que vamos a jugar, asi pues nos dirigimos a la opción Ajustes y nos vamos desplazando por las pestañas para rellenar
+        y pulsamos el boton registrar una vez finalizado. Si todo sale bien cuando le demos al boton sorteo nos aparecera
+        todos los campos rellenados (puedes acceder en cualquier momento para saber si te falta algo).
+
+        Gracias por usar mi aplicación y ¡A por el coche!
+
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+</resources>

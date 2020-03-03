@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">LOTTERY  MANAGER</string>
+    <string name="app_name">Lottery</string>
+    <string name="boton_1">LOGIN</string>
+    <string name="botonP_2">LOTTERY</string>
+    <string name="botonP_3">SETTINGS</string>
+    <string name="botonP_4">DRAW</string>
+    <string name="botonP_5">ABOUT THIS</string>
+    <string name="botonP_6">HELP</string>
+    <string name="tituloR">REGISTRY</string>
+    <string name="edit_textR_N">NAME</string>
+    <string name="edit_textR_P">PASS</string>
+    <string name="edit_textR_E">E-MAIL</string>
+    <string name="edit_numR_EDAD">AGE</string>
+    <string name="boton_R">LOGIN</string>
+    <string name="tituloL">LOTTERY</string>
+    <string name="tituloA">SETIING</string>
+    <string name="tituloA_C">MANUAL COMBINATIONS</string>
+    <string name="tituloA_A">BET</string>
+    <string name="tituloA_N">CHOOSE YOUR NUM:</string>
+    <string name="BotonS_S">JOIN</string>
+    <string name="SorteoN">NAME</string>
+    <string name="SorteoC">QUANTITY</string>
+    <string name="SorteoA">COMBINATION</string>
+    <string name="SorteoT">DRAW TYPE</string>
+    <string name="autor">AUTHOR:</string>
+    <string name="fecha">DATE CREATION:</string>
+    <string name="nombreapli">APK NAME:</string>
+    <string name="Volver">RETURN</string>
+    <string name="Aceptar">OK</string>
+    <string name="title_activity_ajuste">Setiing</string>
+    <string name="tab_text_1">Bet</string>
+    <string name="tab_text_2">Number</string>
+    <string name="title_activity_ajustes">Setiing</string>
+    <string name="ayuda">USE GUIDE</string>
+</resources>
